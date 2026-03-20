@@ -1,6 +1,6 @@
 [project]
 name = "yuutools"
-version = "0.1.0"
+version = "0.2.0"
 description = "Explicit, async-first tool framework for LLM agents"
 readme = "README.md"
 authors = [
